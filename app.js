@@ -3,3 +3,6 @@ function soma(a, b) {
 }
 
 console.log("Resultado:", soma(2, 3));
+function subtracao(a, b) {
+  return a - b;
+}
